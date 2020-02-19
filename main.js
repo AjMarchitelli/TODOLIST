@@ -22,7 +22,6 @@ class Item{
     editButton.innerHTML = 'EDIT'
     editButton.classList.add('editButton');
 
-
     let removeButton = document.createElement('button');
     removeButton.innerHTML = 'REMOVE'
     removeButton.classList.add('removeButton');
