@@ -54,4 +54,4 @@ function check(){
   }
 }
 
-addButton.addEventListener('click',() => check());
+addButton.addEventListener('click',() => console.log('hi'));
